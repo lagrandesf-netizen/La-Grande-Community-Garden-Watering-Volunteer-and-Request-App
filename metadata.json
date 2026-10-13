@@ -1,0 +1,8 @@
+{
+  "name": "LG Plot Watering",
+  "description": "Real-time checklist coordinator for garden and plot watering with leader availability controls, volunteer signups, and completion verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

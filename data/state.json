@@ -1,0 +1,552 @@
+{
+  "available": false,
+  "activeVolunteerPlot": null,
+  "items": {
+    "2": {
+      "id": "2",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "7": {
+      "id": "7",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "8": {
+      "id": "8",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "9": {
+      "id": "9",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "10": {
+      "id": "10",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "11": {
+      "id": "11",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "12": {
+      "id": "12",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "13": {
+      "id": "13",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "14": {
+      "id": "14",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "15": {
+      "id": "15",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "16": {
+      "id": "16",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "17": {
+      "id": "17",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "18": {
+      "id": "18",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "19": {
+      "id": "19",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "20": {
+      "id": "20",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "21": {
+      "id": "21",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "22": {
+      "id": "22",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "23": {
+      "id": "23",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "24": {
+      "id": "24",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "25": {
+      "id": "25",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "27": {
+      "id": "27",
+      "checked": true,
+      "checkedAt": "2026-10-12T23:57:29.892Z",
+      "checkedBy": "Volunteer",
+      "watered": true,
+      "wateredAt": "2026-10-12T23:57:47.569Z",
+      "wateredBy": "Plot 10"
+    },
+    "28": {
+      "id": "28",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "29": {
+      "id": "29",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "34": {
+      "id": "34",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "41": {
+      "id": "41",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "42": {
+      "id": "42",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "43": {
+      "id": "43",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "3A": {
+      "id": "3A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "3B": {
+      "id": "3B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "4A": {
+      "id": "4A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "4B": {
+      "id": "4B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "5A": {
+      "id": "5A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "5B": {
+      "id": "5B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "6A": {
+      "id": "6A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "6B": {
+      "id": "6B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "26A": {
+      "id": "26A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "26B": {
+      "id": "26B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "30A": {
+      "id": "30A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "30B": {
+      "id": "30B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "31A": {
+      "id": "31A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "31B": {
+      "id": "31B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "32A": {
+      "id": "32A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "32B": {
+      "id": "32B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "33A": {
+      "id": "33A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "33B": {
+      "id": "33B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "35A": {
+      "id": "35A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "35B": {
+      "id": "35B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "36A": {
+      "id": "36A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "36B": {
+      "id": "36B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "37A": {
+      "id": "37A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "37B": {
+      "id": "37B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "38A": {
+      "id": "38A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "38B": {
+      "id": "38B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "39A": {
+      "id": "39A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "39B": {
+      "id": "39B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "40A": {
+      "id": "40A",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "40B": {
+      "id": "40B",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "Herbs": {
+      "id": "Herbs",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "Apple Tree Area": {
+      "id": "Apple Tree Area",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    },
+    "Flowers": {
+      "id": "Flowers",
+      "checked": false,
+      "checkedAt": null,
+      "checkedBy": null,
+      "watered": false,
+      "wateredAt": null,
+      "wateredBy": null
+    }
+  },
+  "leaderPin": "1234",
+  "title": "Plot & Plant Watering Checklist",
+  "lastUpdated": "2026-10-13T00:11:37.834Z",
+  "lastNightlyReset": "2026-10-12T21:43:26.603Z",
+  "lastNightlyResetDateKey": "2026-10-12",
+  "notice": "Welcome! Check the plots that need watering or that you are volunteering for."
+}
